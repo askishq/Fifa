@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/9FmkVLvr/20260607-082301.jpg" group-title="News",B TV
+https://cdn.ghuddi.live/BD/BTV_New/Transcoded/BTV_1080p/chunks.m3u8|referer=https://ghuddi.tv/live
+
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/mD3dW9jF/20260607-082331.jpg" group-title="News",Somoy TV
+https://stream.ottplus.live/live/somoy_tv_abr/live/somoy_tv_720/chunks.m3u8
